@@ -2,18 +2,22 @@
 **Django 3 - Python Backend Web Development course learned from Kazi(Udemy)**
 *Django Blog Project*
 
-This is a simple Django blog project where users can create, read, update, and delete blog posts. Users can also register, login, and logout. This project serves as a basic example of how to build a blog application using Django.
+This is a simple Django blog project where users can create, read, update, and delete blog posts. Users can also register, login, and logout and interact through comments and likes. This project serves as a basic example of how to build a blog application using Django.
 
 *Features*
 1.	User registration: Users can register for an account with username, email, and password.
-2.	User authentication: Users can login and logout of their accounts.
+2.	User authentication: Users can log in and logout of their accounts.
 3.	Create, Read, Update, and Delete (CRUD) operations for blog posts.
 4.	User profiles: Users can view their own profiles and update their information.
+5.	Like and Comment: Users can like and comment on posts.
 
 
 *Requirements*
 1.	Python 3.11
 2.	Django (latest version)
+3.	Bootstrap (for styling)
+4.	SQLite (as database)
+
 
 
 *Usage*
